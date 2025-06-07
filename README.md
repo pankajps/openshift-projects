@@ -6,12 +6,12 @@
 
 <p align="center"><em>Building Robust DevOps Solutions</em></p>
 
-## 🚀 About
+## About
 
 **RedOpsForge** is a curated collection of real-world, production-grade projects built with **OpenShift**, **Python**, and modern **DevOps tooling**. This repository blends automation, CI/CD, container orchestration, and cloud-native patterns.
 A forge (hub or workshop) for building robust DevOps and OpenShift (Red Hat) solutions.
 
-## 📦 Tech Stack
+## Tech Stack
 
 - OpenShift 4.x
 - Python 3.10+
